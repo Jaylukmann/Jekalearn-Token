@@ -1,1 +1,2 @@
-# Jekalearn-Token
+# Jekalearn-Token smart contract is the token smart contract for jekalearn.com.ng,a website for linking learners and tutors world wide.It is an open source project where any dev who loves the passion behind jekalearn can help contribute his/her quota to the development of human race.
+  This token will be distributed through selfdrop equivalent to 0.0027525 eth for 7878 units of JLT.A user can only call the function 5 times in order to prevent the whales fron taking over the token.
